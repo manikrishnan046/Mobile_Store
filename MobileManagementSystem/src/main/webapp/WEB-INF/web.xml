@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+    <servlet-name>DisplayAllMobiles</servlet-name>
+    <servlet-class>com.yourpackage.DisplayAllMobiles</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>DisplayAllMobiles</servlet-name>
+    <url-pattern>/DisplayAllMobiles</url-pattern>
+</servlet-mapping>
+</web-app>
